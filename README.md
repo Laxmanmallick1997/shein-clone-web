@@ -1,6 +1,4 @@
 # Clone_of_Shoppersstop.com
-
-# Project -Clone-ShoppersStop-FrontEnd
 This is an Indian e-commerce Website and we made this clone in just 5 Days. The flow of the website is Homepage -> product page -> Specific Product page -> Cart page -> Payment page -> Address Page -> Order Confirmation page. If you want to buy the product you have to go in the navbar and hover on Categories and then Select Menu select men then You redirect to the Men Page.
 
 # Project Oweners 
